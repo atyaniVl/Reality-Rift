@@ -1,6 +1,7 @@
 # Reality Rift
 
 A fast-paced fantasy action game built in **3 days** for **SOP Game Jam**.
+https://itch.io/jam/sop-game-jam
 
 ## Overview
 In the Kingdom of Wizards, one wizard discovers the forbidden spell **"The Infinite"**, granting him limitless magical power. The spell disrupts the balance of the world.
