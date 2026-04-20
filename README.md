@@ -11,8 +11,8 @@ In response, the Master Wizard casts the **Instability Curse** on him, causing h
 As the player, your mission is to strengthen your magical stability, challenge the Master Wizard, and defeat him to break the curse and restore control over your powers.
 
 ## ScreenShots
-<img width="479" height="268" alt="image" src="https://github.com/user-attachments/assets/b51f24ec-dd00-45d0-97d4-103476310671" />
-<img width="479" height="269" alt="image" src="https://github.com/user-attachments/assets/f95aa6ef-83c9-46e0-8acf-57855a0b06ce" />
+<img width="479" height="268" alt="image" src="https://github.com/user-attachments/assets/b51f24ec-dd00-45d0-97d4-103476310671" /><img width="479" height="269" alt="image" src="https://github.com/user-attachments/assets/f95aa6ef-83c9-46e0-8acf-57855a0b06ce" />
+
 <img width="479" height="269" alt="image" src="https://github.com/user-attachments/assets/d64b45f6-d7e0-4902-8b76-0aab472ed615" />
 <img width="479" height="269" alt="image" src="https://github.com/user-attachments/assets/5f53a421-67e5-4fb6-b886-38a626732003" />
 
