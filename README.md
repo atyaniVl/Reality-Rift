@@ -7,10 +7,10 @@ https://itch.io/jam/sop-game-jam
 In the Kingdom of Wizards, one wizard discovers the forbidden spell **"The Infinite"**, granting him limitless magical power. The spell disrupts the balance of the world.
 
 ##ScreenShots
-<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/b51f24ec-dd00-45d0-97d4-103476310671" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f95aa6ef-83c9-46e0-8acf-57855a0b06ce" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d64b45f6-d7e0-4902-8b76-0aab472ed615" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f53a421-67e5-4fb6-b886-38a626732003" />
+<img width="959.5" height="536" alt="image" src="https://github.com/user-attachments/assets/b51f24ec-dd00-45d0-97d4-103476310671" />
+<img width="959.5" height="539.5" alt="image" src="https://github.com/user-attachments/assets/f95aa6ef-83c9-46e0-8acf-57855a0b06ce" />
+<img width="959.5" height="539.5" alt="image" src="https://github.com/user-attachments/assets/d64b45f6-d7e0-4902-8b76-0aab472ed615" />
+<img width="959.5" height="539.5" alt="image" src="https://github.com/user-attachments/assets/5f53a421-67e5-4fb6-b886-38a626732003" />
 
 In response, the Master Wizard casts the **Instability Curse** on him, causing his magic to become unstable and shift periodically.
 
